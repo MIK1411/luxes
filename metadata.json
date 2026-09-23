@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Luxe Studio - Premium Hair Salon",
+  "description": "Where Royal Elegance Meets Modern Artistry. Premier Indian luxury hair salon in Bandra West, Mumbai specializing in bespoke color, Ayurvedic hair spas, and royal bridal couture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
